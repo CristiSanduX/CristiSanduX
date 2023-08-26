@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristi Sandu</h1>
+<img src="https://github.com/CristiSanduX/CristiSanduX/assets/97184692/bc2d2c66-9856-49b6-b654-2d74e9785fa9" align="center"  alt="Cristi Banner 2" width="700">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristisandux&label=Profile%20views&color=0e75b6&style=flat" alt="cristisandux" /> </p>
-
-<img src="https://github.com/CristiSanduX/CristiSanduX/assets/97184692/bc2d2c66-9856-49b6-b654-2d74e9785fa9" align="right" alt="Cristi Banner 2" width="700">
-
 
 
 <h3 align="left">Connect with me:</h3>

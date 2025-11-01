@@ -11,46 +11,40 @@
 
 ---
 
-## Tech I use
-<p align="center">
-  <!-- 🍎 Apple & Mobile -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" style="margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" style="margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" style="margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" style="margin: 8px;" />
-  <img src="https://img.icons8.com/ios-filled/100/0A84FF/icloud--v1.png" height="40" style="margin: 8px;" alt="CloudKit"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" style="margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" style="margin: 8px;" />
+## <p align="center">Tech I use</p>
 
-  <!-- ☁️ Backend / Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" style="margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="margin: 8px;" />
+<div align="center">
 
-  <!-- 🌐 Web -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" style="margin: 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" style="margin: 8px;" />
-</p>
+| Apple | Xcode | Swift | CloudKit | Firebase |
+|---|---|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40"> | <img src="https://img.icons8.com/ios-filled/100/0A84FF/icloud--v1.png" height="40" alt="CloudKit"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"> |
 
+| Flutter | Dart | React | Angular | JavaScript |
+|---|---|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"> |
+
+| HTML5 | CSS3 | Node.js | Python | Postman |
+|---|---|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40"> |
+
+</div>
 
 ---
 
-## GitHub stats
-<p>
+## <p align="center">GitHub stats</p>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CristiSanduX&show_icons=true&hide_border=true&theme=transparent" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CristiSanduX&theme=transparent&hide_border=true" height="150" />
-</p>
-<p>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristiSanduX&layout=compact&hide_border=true&theme=transparent" height="150" />
-</p>
+</div>
 
 ---
 
-## Connect with me
-<p align="left">
+## <p align="center">Connect with me</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/cristisandux/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
@@ -60,6 +54,8 @@
   <a href="https://www.instagram.com/cristisandux/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;<a href="mailto:cristi.sandu@csx.ro"><b>cristi.sandu@csx.ro</b></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;<a href="https://csx.ro" target="_blank"><b>www.csx.ro</b></a>
+  <br/><br/>
+  <a href="mailto:cristi.sandu@csx.ro"><b>cristi.sandu@csx.ro</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://csx.ro" target="_blank"><b>www.csx.ro</b></a>
 </p>
